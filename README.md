@@ -36,4 +36,4 @@ int input(goods b[],int N);//从系统中导入数据
     void modify_password();//更改密码
     
     
-   ##第一次使用GitHub，多多包涵
+   第一次使用GitHub，多多包涵
