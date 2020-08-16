@@ -1,6 +1,8 @@
 大一图书管理系统
 
-基于@QYHcrossover改编
+具有添加、删除、查找、排序。
+
+感谢@QYHcrossover提供的源代码
 
 password.txt存放管理员密码
 
@@ -25,13 +27,13 @@ int input(goods b[],int N);//从系统中导入数据
     
     void menu_customer();//顾客系统界面
     
-    void menu_manager();//管理员系统界面
+    void menu_manager();//管理员界面
     
     void system_manager();//顾客系统
     
-    void password();//密码函数
+    void password();//密码
     
-    void modify_password();//更改密码函数
+    void modify_password();//更改密码
     
     
    ##第一次使用GitHub，多多包涵
